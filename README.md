@@ -1,4 +1,4 @@
-<b>Hi👋 I'm Prajakta Pare</b>
+<b>Hi👋 I'm Prajakta Pare</b><br>
 <i>🚀 Aspiring Web Developer | 💡 Passionate About Solving Real-World Problems</i>
 <!--
 **PrajaktaPare/PrajaktaPare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
