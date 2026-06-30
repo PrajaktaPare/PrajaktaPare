@@ -95,7 +95,7 @@ A full-stack expense management platform with secure JWT authentication, transac
 
 An accessible digital library that enables visually impaired users to read documents in multiple languages with text-to-speech support, document processing, and secure user authentication.
 
-**Tech Stack:** React.js • Flask • Python • MySQL • JWT Authentication • Bhashini API • PyTTS • PyMuPDF • Selenium
+**Tech Stack:** React.js • Flask • Python • MySQL • JWT Authentication • Bhashini API • PyTTS • PyMuPDF
 
 ---
 
