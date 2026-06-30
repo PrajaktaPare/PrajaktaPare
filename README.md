@@ -95,7 +95,7 @@ Personal portfolio showcasing my projects, skills, and experience.
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
   <a href="mailto:YOUR_EMAIL">Email</a> •
   <a href="https://github.com/PrajaktaPare">GitHub</a> •
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <a href="[YOUR_PORTFOLIO_LINK](https://portfolio-delta-nine-m842jj302m.vercel.app/)">Portfolio</a>
 </p>
 
 ---
