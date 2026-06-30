@@ -92,10 +92,10 @@ Personal portfolio showcasing my projects, skills, and experience.
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="https://linkedin.com/in/PrajaktaPare">LinkedIn</a> •
+  <a href="mailto:prajaktapare.fc@gmail.com">Email</a> •
   <a href="https://github.com/PrajaktaPare">GitHub</a> •
-  <a href="[YOUR_PORTFOLIO_LINK](https://portfolio-delta-nine-m842jj302m.vercel.app/)">Portfolio</a>
+  <a href="https://portfolio-delta-nine-m842jj302m.vercel.app/">Portfolio</a>
 </p>
 
 ---
