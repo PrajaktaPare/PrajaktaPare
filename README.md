@@ -91,12 +91,11 @@ A full-stack expense management platform with secure JWT authentication, REST AP
 
 ---
 
-### 🌐 Portfolio Website
+### 📚 SwarSetu – Accessible Digital Library
 
-A responsive personal portfolio showcasing my projects, technical skills, and experience.
+A web application that enables visually impaired users to read documents in multiple languages with text-to-speech support and secure authentication.
 
-**Tech Stack:** React.js • HTML • CSS • JavaScript
-
+**Tech Stack:** React.js • Flask • Python • MySQL • JWT Authentication • Bhashini API • PyTTS • PyMuPDF
 ---
 
 ## 📈 GitHub Stats
