@@ -85,17 +85,18 @@ Passionate about building scalable web applications and solving real-world probl
 
 ### 💰 Expense Tracker
 
-A full-stack expense management platform with secure JWT authentication, REST APIs, and MongoDB.
+A full-stack expense management platform with secure JWT authentication, transaction management, and RESTful APIs for efficient expense tracking.
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT Authentication
 
 ---
 
 ### 📚 SwarSetu – Accessible Digital Library
 
-A web application that enables visually impaired users to read documents in multiple languages with text-to-speech support and secure authentication.
+An accessible digital library that enables visually impaired users to read documents in multiple languages with text-to-speech support, document processing, and secure user authentication.
 
-**Tech Stack:** React.js • Flask • Python • MySQL • JWT Authentication • Bhashini API • PyTTS • PyMuPDF
+**Tech Stack:** React.js • Flask • Python • MySQL • JWT Authentication • Bhashini API • PyTTS • PyMuPDF • Selenium
+
 ---
 
 ## 📈 GitHub Stats
