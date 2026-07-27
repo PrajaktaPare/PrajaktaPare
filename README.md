@@ -111,7 +111,7 @@ An accessible digital library that enables visually impaired users to read docum
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/PrajaktaPare">
+  <a href="[https://linkedin.com/in/PrajaktaPare](https://www.linkedin.com/in/prajakta-pare/)">
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/>
   </a>
   &nbsp;
